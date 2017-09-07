@@ -19,5 +19,11 @@ euclidean <- function(a, b){
 
 euclidean(100, 1000)
 
+# 1.1.2* dijkstra()
+dijkstra <- function(graph, init_node){
+        stopifnot(is.numeric(init_node) & init_node == length(1))
+        
+        
+}
 
 
