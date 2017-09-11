@@ -2,7 +2,6 @@
 
 #' @title Dijkstra Algorithm
 #' @name dijkstra
-#' @usage For finding the shortest path between nodes in a model.
 #' @param graph A data frame.
 #' @param init_node A numeric scalar.
 #' @return Numeric vector, with the shortest distance to each node.
