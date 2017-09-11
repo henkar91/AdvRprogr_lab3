@@ -4,7 +4,7 @@
 \alias{euclidean}
 \title{Euclidean Algorithm}
 \usage{
-The greatest common divisor of a and b.
+euclidean(a, b)
 }
 \arguments{
 \item{a}{A number.}
@@ -15,7 +15,8 @@ The greatest common divisor of a and b.
 A number, which is the greatest common divisor.
 }
 \description{
-Euclid's algorithm is an efficient method for computing the greatest common divisor of two numbers. The largest number that divides both of them without leaving a remainder.
+Euclid's algorithm is an efficient method for computing the greatest common divisor of two numbers. 
+The largest number that divides both of them without leaving a remainder.
 }
 \references{
 \url{https://en.wikipedia.org/wiki/Euclidean_algorithm}

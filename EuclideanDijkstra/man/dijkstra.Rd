@@ -4,7 +4,7 @@
 \alias{dijkstra}
 \title{Dijkstra Algorithm}
 \usage{
-For finding the shortest path between nodes in a model.
+dijkstra(graph, init_node)
 }
 \arguments{
 \item{graph}{A data frame.}
