@@ -59,3 +59,4 @@ dijkstra <- function(graph, init_node) {
 dijkstra(wiki_graph, 3)
 
 
+

@@ -1,3 +1,15 @@
+# Authors: Henrik Karlsson, Milda Poceviciute
+
+#' @title Dijkstra Algorithm
+#' @name dijkstra
+#' @usage For finding the shortest path between nodes in a model.
+#' @param graph A data frame.
+#' @param init_node A numeric scalar.
+#' @return Numeric vector, with the shortest distance to each node.
+#' @description Dijkstra's algorithm is an algorithm for finding the shortest paths between nodes in a graph.
+#' @references \url{https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm}
+
+
 # 1.1.2 dijkstra()
 # Solution from Wikipedia: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 # Acknowledgement to Simon Jönsson
