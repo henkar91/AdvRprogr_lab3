@@ -2,7 +2,7 @@
 
 #' @title Euclidean Algorithm
 #' @name euclidean
-#' @usage The greatest common divisor of \code{a} and \code{b}.
+#' @usage The greatest common divisor of a and b.
 #' @param a A number.
 #' @param b A number.
 #' @return A number, which is the greatest common divisor.
