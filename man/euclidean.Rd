@@ -4,7 +4,7 @@
 \alias{euclidean}
 \title{Euclidean Algorithm}
 \usage{
-The greatest common divisor of \code{a} and \code{b}.
+euclidean(a, b)
 }
 \arguments{
 \item{a}{A number.}
