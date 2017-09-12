@@ -10,6 +10,9 @@
   \item{v2}{node}
   \item{w}{weight between v1 and v2 nodes}
 }}
+\source{
+\url{https://en.wikipedia.org/wiki/Dijkstra\%27s_algorithm}
+}
 \usage{
 wiki_graph
 }
