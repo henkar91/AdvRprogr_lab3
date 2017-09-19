@@ -32,5 +32,5 @@ Maintainer: \packageMaintainer{EuclideanDijkstra}
 }
 \examples{
 euclidean(1000, 10)
-djikstra(wiki_graph, 1)
+dijkstra(wiki_graph, 1)
 }
