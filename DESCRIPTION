@@ -1,6 +1,6 @@
 Package: EuclideanDijkstra
 Type: Package
-Title: The package contains Euclidean and Dijkstra's algorithms 
+Title: Euclidean and Dijkstra's algorithms 
 Version: 1.0
 Date: 2017-09-08
 Author: Milda Poceviciute, Henrik Karlsson
