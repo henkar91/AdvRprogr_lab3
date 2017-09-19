@@ -7,6 +7,7 @@
 #' @return A number, which is the greatest common divisor.
 #' @description Euclid's algorithm is an efficient method for computing the greatest common divisor of two numbers. The largest number that divides both of them without leaving a remainder.
 #' @references \url{https://en.wikipedia.org/wiki/Euclidean_algorithm}
+#' @export
 
 
 # 1.1 Write the R code
